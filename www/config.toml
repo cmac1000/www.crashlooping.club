@@ -1,0 +1,13 @@
+title = "Crash Looping Club"
+baseURL = "https://www.crashlooping.club/"
+Author = "Chris MacDonald"
+
+[params]
+  sitename = "Crash Looping Club"
+
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "color"
+pygmentscodefences  = true

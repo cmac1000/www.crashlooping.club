@@ -1,0 +1,4 @@
+[build]
+  base    = "."
+  publish = "www/public"
+  command = "./tools/publish.sh"
